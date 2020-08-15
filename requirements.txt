@@ -3,4 +3,5 @@ python-dotenv
 flask-wtf
 flask-sqlalchemy
 flask-migrate
-dfasfafd
+flask-login
+email-validator
