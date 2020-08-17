@@ -9,9 +9,7 @@ class Config(object):
     MAIL_PORT = int(os.environ.get('MAIL_PORT') or 25)
     MAIL_USE_TLS = os.environ.get('MAIL_USE_TLS') is not None
     MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
-    # MAIL_USERNAME = os.environ.get('julianclark143@gmail.com')
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
-    # MAIL_PASSWORD = os.environ.get('exclusivetree1376')
     ADMINS = ['julianclark143@gmail.com']
-    # ADMINS = ['julianclark143@gmail.com']
-    POSTS_PER_PAGE = 3
+    LANGUAGES = ['en', 'es']
+    POSTS_PER_PAGE = 25
