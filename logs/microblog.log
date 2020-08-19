@@ -119,3 +119,4 @@ jinja2.exceptions.UndefinedError: 'form' is undefined
 2020-08-17 23:57:04,136 INFO: Microblog startup [in C:\Users\ASUS\Desktop\Python\Flask\microblog\app\__init__.py:53]
 2020-08-17 23:58:35,754 INFO: Microblog startup [in C:\Users\ASUS\Desktop\Python\Flask\microblog\app\__init__.py:53]
 2020-08-18 00:28:18,870 INFO: Microblog startup [in C:\Users\ASUS\Desktop\Python\Flask\microblog\app\__init__.py:53]
+2020-08-19 14:20:45,141 INFO: Microblog startup [in C:\Users\ASUS\Desktop\Python\Flask\microblog\app\__init__.py:53]
