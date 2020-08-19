@@ -11,3 +11,5 @@ flask-bootstrap
 flask-moment
 flask-babel
 guess_language-spirit
+gunicorn
+psycopg2
