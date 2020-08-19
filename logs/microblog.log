@@ -96,3 +96,4 @@ Traceback (most recent call last):
     <img src="{{ post.author.avatar(70) }}" />
 jinja2.exceptions.UndefinedError: 'None' has no attribute 'avatar'
 2020-08-19 14:37:17,620 INFO: Microblog startup [in C:\Users\ASUS\Desktop\Python\Flask\microblog\app\__init__.py:53]
+2020-08-19 14:48:39,894 INFO: Microblog startup [in C:\Users\ASUS\Desktop\Python\Flask\microblog\app\__init__.py:53]
